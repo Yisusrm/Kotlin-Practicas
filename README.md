@@ -1,2 +1,2 @@
-# Kotlin-Practicas
-Practicas realizadas en la universidad en Android Studio
+# Clinica
+Practica realizada en la universidad en Android Studio
